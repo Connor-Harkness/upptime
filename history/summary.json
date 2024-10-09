@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 93,
-    "timeWeek": 111,
-    "timeMonth": 102,
-    "timeYear": 100,
+    "time": 101,
+    "timeDay": 131,
+    "timeWeek": 115,
+    "timeMonth": 104,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://void-industries.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/void-industries.co.uk.ico",
     "slug": "void-industries",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 511,
-    "timeWeek": 373,
-    "timeMonth": 595,
-    "timeYear": 576,
-    "dailyMinutesDown": {}
+    "time": 569,
+    "timeDay": 325,
+    "timeWeek": 352,
+    "timeMonth": 596,
+    "timeYear": 569,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   }
 ]
